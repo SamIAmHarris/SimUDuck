@@ -15,7 +15,8 @@ public class MallardDuck extends Duck {
 
     @Override
     public void display() {
-        System.out.println("I'm a real Mallard duck");
+        System.out.println(
+                "I'm a real Mallard duck, just like Pinocchio is a real boy");
     }
 
 }
