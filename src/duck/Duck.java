@@ -1,3 +1,8 @@
+package duck;
+
+import behavior.FlyBehavior;
+import behavior.QuackBehavior;
+
 /**
  * Created by SamMyxer on 6/16/16.
  */

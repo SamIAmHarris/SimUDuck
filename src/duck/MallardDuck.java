@@ -1,3 +1,8 @@
+package duck;
+
+import behavior.impl.FlyWithWingsImpl;
+import behavior.impl.QuackImpl;
+
 /**
  * Created by SamMyxer on 6/16/16.
  */

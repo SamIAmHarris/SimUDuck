@@ -1,3 +1,7 @@
+package behavior.impl;
+
+import behavior.FlyBehavior;
+
 /**
  * Created by SamMyxer on 6/16/16.
  */

@@ -1,3 +1,8 @@
+import behavior.impl.FlyRocketPoweredImpl;
+import duck.Duck;
+import duck.MallardDuck;
+import duck.ModelDuck;
+
 /**
  * Created by SamMyxer on 6/16/16.
  */
